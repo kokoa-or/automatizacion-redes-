@@ -1,0 +1,5 @@
+nombre = "R1"
+tipo = "Router"
+ip = "10.1.1.1"
+interfaz = "GigabitEthernet0/0"
+estado = "Activo"
