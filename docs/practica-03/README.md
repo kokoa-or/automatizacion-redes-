@@ -5,5 +5,3 @@ En esta práctica se desarrolló una aplicación en Python orientada a la repres
 Próximo paso:
 Desarrollar programas que permitan procesar y automatizar información
 relacionada con la infraestructura de red.
-
-prueba prueba
