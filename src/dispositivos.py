@@ -39,3 +39,18 @@ def mostrar_dispositivo(dispositivo):
 for dispositivo in dispositivos:
     mostrar_dispositivo(dispositivo)
     print("--------------------")
+
+
+nombre_buscado = input("\nIngrese el nombre del dispositivo a buscar: ")
+
+encontrado = False
+
+for dispositivo in dispositivos:
+    if dispositivo["nombre"].upper() == nombre_buscado.upper():
+        print("\nDispositivo encontrado:")
+        mostrar_dispositivo(dispositivo)
+        encontrado = True
+        break
+
+if not encontrado:
+    print("\nDispositivo no encontrado.")
