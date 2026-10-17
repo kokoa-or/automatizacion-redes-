@@ -21,9 +21,21 @@ dispositivos = [
 ]
 
 
-for dispositivo in dispositivos:
+def mostrar_dispositivo(dispositivo):
     print("Nombre:", dispositivo["nombre"])
     print("Tipo:", dispositivo["tipo"])
     print("IP:", dispositivo["ip"])
     print("Estado:", dispositivo["estado"])
+    print("Fabricante:", dispositivo["fabricante"])
+    print("Protocolo:", dispositivo["protocolo"])
+
+
+    if dispositivo["estado"] == "Activo":
+        print("El dispositivo está funcionando correctamente.")
+    else:
+        print("El dispositivo requiere revisión.")
+
+
+for dispositivo in dispositivos:
+    mostrar_dispositivo(dispositivo)
     print("--------------------")
