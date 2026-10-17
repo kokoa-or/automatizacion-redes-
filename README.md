@@ -120,3 +120,14 @@ Infraestructura construida:
 - Conectividad entre dispositivos.
 - Protocolo OSPF.
 - Verificación de tablas 
+
+Práctica 3
+Primer programa de Python para representar informacion de dispositivos
+Estado:
+
+Resultados obtenidos
+-Implementación de estructuras de datos para almacenar información de red.
+-Uso de funciones para modularizar el código.
+-Aplicación de ciclos y condiciones para el procesamiento de datos.
+-Visualización organizada de los dispositivos registrados.
+-Integración de un sistema básico de búsqueda de dispositivos.
