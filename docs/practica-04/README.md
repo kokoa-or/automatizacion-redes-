@@ -54,13 +54,14 @@ Porque una solución puede depender de una versión específica, configuración,
 
 # Estrategia de solucion del problema
 
-**Elemento** | Respuesta del equipo
-**Problema identificado | El programa dispositivos.py muestra correctamente la información de los dispositivos, pero no logra identificar un dispositivo cuando se realiza una búsqueda por nombre.
-**Palabras clave para realizar la búsqueda** | Python buscar dispositivo por nombre, búsqueda en listas y diccionarios Python, comparar cadenas, búsqueda de claves en diccionario.
-**Documentación o comunidad que consultarían primero** | Primero consultaríamos la documentación oficial de Python y posteriormente una comunidad como Stack Overflow si la documentación no fuera suficiente.
-**Información que revisarían en el código** | Revisaríamos cómo están almacenados los dispositivos, la variable utilizada para realizar la búsqueda, las condiciones if, las comparaciones de nombres y las funciones utilizadas para localizar el dispositivo.
-**Tipo de ejemplo o solución que buscarían** | Buscaríamos ejemplos de búsqueda de elementos en listas o diccionarios y comparación de cadenas en Python.
-**Cómo comprobarían que la solución funciona** | Realizaríamos pruebas buscando los dispositivos R1 y R2, además de un nombre que no exista, para verificar que el programa encuentre correctamente los dispositivos y maneje los casos inexistentes.
+|**Elemento** | Respuesta del equipo|
+| :--- | :--- | :--- | :--- |
+|**Problema identificado** | El programa dispositivos.py muestra correctamente la información de los dispositivos, pero no logra identificar un dispositivo cuando se realiza una búsqueda por nombre.|
+|**Palabras clave para realizar la búsqueda** | Python buscar dispositivo por nombre, búsqueda en listas y diccionarios Python, comparar cadenas, búsqueda de claves en diccionario.|
+|**Documentación o comunidad que consultarían primero** | Primero consultaríamos la documentación oficial de Python y posteriormente una comunidad como Stack Overflow si la documentación no fuera suficiente.|
+|**Información que revisarían en el código** | Revisaríamos cómo están almacenados los dispositivos, la variable utilizada para realizar la búsqueda, las condiciones if, las comparaciones de nombres y las funciones utilizadas para localizar el dispositivo.|
+|**Tipo de ejemplo o solución que buscarían** | Buscaríamos ejemplos de búsqueda de elementos en listas o diccionarios y comparación de cadenas en Python.|
+|**Cómo comprobarían que la solución funciona** | Realizaríamos pruebas buscando los dispositivos R1 y R2, además de un nombre que no exista, para verificar que el programa encuentre correctamente los dispositivos y maneje los casos inexistentes.|
 
 # Apredizajes Obtenidos
 Durante la práctica aprendimos que no todas las fuentes de información tienen el mismo nivel de confiabilidad. Es importante identificar quién mantiene un recurso, comprobar que la información sea actual y verificar las soluciones antes de utilizarlas. También aprendimos que las comunidades de colaboración pueden complementar la documentación oficial cuando se presenta un problema específico.
