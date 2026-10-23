@@ -54,8 +54,8 @@ Porque una solución puede depender de una versión específica, configuración,
 
 # Estrategia de solucion del problema
 
-|**Elemento** | Respuesta del equipo|
-| :--- | :--- | :--- | :--- |
+|Elemento | Respuesta del equipo|
+| :--- | :--- | 
 |**Problema identificado** | El programa dispositivos.py muestra correctamente la información de los dispositivos, pero no logra identificar un dispositivo cuando se realiza una búsqueda por nombre.|
 |**Palabras clave para realizar la búsqueda** | Python buscar dispositivo por nombre, búsqueda en listas y diccionarios Python, comparar cadenas, búsqueda de claves en diccionario.|
 |**Documentación o comunidad que consultarían primero** | Primero consultaríamos la documentación oficial de Python y posteriormente una comunidad como Stack Overflow si la documentación no fuera suficiente.|
