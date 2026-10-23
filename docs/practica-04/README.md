@@ -34,17 +34,12 @@ Revisamos el repositorio de Netmiko para conocer una biblioteca de Python utiliz
 # Evaluacion de confiabilidada:
 
 |Criterio | Recurso 1: Documentación oficial de Python | Recurso 2: Documentación de GNS3 | Recurso 3: Stack Overflow|
-
+| :--- | :--- | :--- | :--- |
 |**¿Quién publica o mantiene el recurso?**	|Python Software Foundation y colaboradores de Python.	|Equipo y comunidad de GNS3.	|Comunidad de usuarios y desarrolladores de Stack Overflow.|
-
 |**¿La información corresponde al tema investigado?**	|Sí, contiene información sobre Python, sus funciones, estructuras y bibliotecas.	|Sí, proporciona información relacionada con GNS3, redes y simulación.	|Sí, contiene preguntas y respuestas sobre programación y resolución de problemas.|
-
 |**¿Incluye ejemplos o instrucciones verificables?**	|Sí, incluye ejemplos de código y explicaciones.	|Sí, incluye instrucciones y ejemplos relacionados con el uso de GNS3.	|Sí, muchas respuestas incluyen código y procedimientos que pueden probarse.|
-
 |**¿Se identifica la versión o fecha de actualización cuando corresponde?**	|Sí, la documentación está organizada por versiones de Python.	|Sí, la documentación se relaciona con las versiones de GNS3.	|Depende de cada publicación; se pueden consultar fechas y respuestas.|
-
 |**¿Es posible comprobar la información con otra fuente?**	|Sí, mediante otros recursos y documentación de Python.	|Sí, mediante documentación adicional y comunidades de redes.	|Sí, comparando la respuesta con documentación oficial.|
-
 |**¿Qué utilidad tiene para el proyecto integrador?**	|Ayuda a desarrollar y corregir los programas en Python.	|Ayuda a comprender y solucionar problemas de la infraestructura simulada.	|Permite encontrar experiencias y posibles soluciones a problemas específicos.|
 
 1. **¿Cuál de los recursos consideras más útil para resolver dudas de Python? ¿Por qué?**
