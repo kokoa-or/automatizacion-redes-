@@ -22,6 +22,15 @@ Stack Overflow:
 https://es.stackoverflow.com/
 Es una comunidad donde los usuarios publican preguntas y respuestas relacionadas con programación. Permite consultar problemas que otros desarrolladores han encontrado y conocer posibles soluciones. Buscamos información sobre cómo localizar un dispositivo por su nombre en Python.
 
+GitHub:
+https://github.com/search?q=python+network+automation&type=repositories
+Consultamos repositorios relacionados con Python y la automatización de redes para conocer cómo otros desarrolladores organizan sus proyectos, archivos y documentación. Este recurso nos sirve como referencia para mejorar la estructura de nuestro proyecto integrador y conocer ejemplos de código que puedan ayudarnos a comprender cómo se desarrollan soluciones de automatización.
+
+Netmiko:
+https://github.com/ktbyers/netmiko
+Revisamos el repositorio de Netmiko para conocer una biblioteca de Python utilizada para facilitar la conexión y administración de dispositivos de red compatibles. Este recurso nos permite consultar su documentación, ejemplos de uso y plataformas admitidas. Consideramos que puede ser útil en futuras prácticas si necesitamos desarrollar programas que automaticen tareas de administración de dispositivos de red.
+
+
 # Evaluacion de confiabilidada:
 
 Criterio | Recurso 1: Documentación oficial de Python | Recurso 2: Documentación de GNS3 | Recurso 3: Stack Overflow
