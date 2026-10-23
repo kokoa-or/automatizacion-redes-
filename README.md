@@ -90,8 +90,59 @@ automatizacion-redes/
         ├── instalacion.md
         ├── configuracion.md
         └── verificacion.md
-
-
+        practica-02/
+        │
+        │   ├── topologia-01/
+        │        ├── evidencias/
+        │        │   ├── 01-servidores-gns3.png
+        │        │   ├── 02-topologia-01.png
+        │        │   ├── 03-configuracion-pc1.png
+        │        │   ├── 04-configuracion-pc2.png
+        │        │   ├── 05-ping-pc1-pc2.png
+        │        │   ├── 06-ping-pc2-pc1.png
+        │        │
+        │        ├── configuracion.md
+        │        └── topologia-01.png
+        │   ├── topologia-02/
+        │        ├── evidencias/
+        │        │   ├── 01-topologia-02.png
+        │        │   ├── 02-configuracion-r1.png
+        │        │   ├── 03-configuracion-r2.png
+        │        │   ├── 04-configuracion-s1.png
+        │        │   ├── 05-ping-r1-r2.png
+        │        │   ├── 06-ping-r2-r1.png
+        │        │   ├── 07-ospf-neighbor.png
+        │        │   ├── 08-routing-table.png
+        │        │
+        │        ├── configuracion.md
+        │        └── topologia-02.png
+                 └── README.md
+        └── practica-03/
+        │
+        ├── evidencias/
+        │   ├── 01-Evidencia1.png
+        │   ├── 02-Evidencia2.png
+        │   ├── 03-Evidencia3.png
+        │   ├── 04-Evidencia4.png
+        │   ├── 05-Evidencia5.png
+        │   ├── 06-Evidencia6.png
+        │   ├── 07-Evidencia7.png
+        │   ├── 08-RetoFinal.png
+            └── README.md
+        └── practica-04/
+        │
+        ├── evidencias/
+        │   ├── 01-repositorio.jpeg
+        │   ├── 02-documentacion_python.png
+        │   ├── 03-recurso_tutorial_python.png
+        │   ├── 04-recurso_biblioteca_pyhton.png
+        │   ├── 05-documentacion_gns3.png
+        │   ├── 06-recurso_documentacion_netmiko.png
+        │   ├── 07-recurso-repositorio_netmiko.png
+        ├── comunidades-colaboracion.md
+        ├── recursos-python.md
+        ├── recursos-redes.md
+        └── README.md        
 
 
 Problemas encontrados y soluciones
@@ -123,7 +174,7 @@ Infraestructura construida:
 
 Práctica 3
 Primer programa de Python para representar informacion de dispositivos
-Estado:
+Estado: Completada
 
 Resultados obtenidos
 - Implementación de estructuras de datos para almacenar información de red.
@@ -131,3 +182,13 @@ Resultados obtenidos
 - Aplicación de ciclos y condiciones para el procesamiento de datos.
 - Visualización organizada de los dispositivos registrados.
 - Integración de un sistema básico de búsqueda de dispositivos.
+
+Práctica 4
+Exploración de comunidades, documentación y recursos de colaboración.
+Estado: Completada.
+
+Durante esta práctica se identificaron y analizaron diferentes recursos de documentación y comunidades relacionados con Python, GNS3 y la automatización de redes.
+Se organizó la información obtenida en una base de conocimiento dentro del repositorio, con el propósito de facilitar la consulta y reutilización de recursos durante las siguientes etapas del proyecto integrador.
+
+Próximo paso:
+Continuar con el desarrollo de programas en Python y utilizar los recursos técnicos investigados para resolver problemas durante su implementación.
