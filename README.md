@@ -143,6 +143,18 @@ automatizacion-redes/
         ├── recursos-python.md
         ├── recursos-redes.md
         └── README.md        
+        └── practica-05/
+        │
+        ├── evidencias/
+        │   ├── 01-topologia.png
+        │   ├── 02-direccion_nac.png
+        │   ├── 03-conectividad_r1.png
+        │   ├── 04-acceso_telnet.png
+        │   ├── 05-verificacion_loopback_r1.png
+        │   ├── 06-verificacion_loopback_nac.png
+        │   ├── 07-verificacion_ospf_nac.png
+        │   ├── 08-verificacion_ospf_r1.png
+        └── README.md        
 
 
 Problemas encontrados y soluciones
@@ -192,3 +204,11 @@ Se organizó la información obtenida en una base de conocimiento dentro del rep
 
 Próximo paso:
 Continuar con el desarrollo de programas en Python y utilizar los recursos técnicos investigados para resolver problemas durante su implementación.
+
+Practica 5
+Mi primer Script
+Estado: Completada.
+
+Se creara una topología de red en GNS3 y se configurara un script de automatización utilizando Python para aplicar configuraciones vía Telnet a un router. Esta práctica da continuidad al proyecto integrador “Sistema de automatización y gestión de infraestructura de red”: parte de la topología construida en prácticas previas, aprovecha los conocimientos de Python y los recursos investigados, y agrega la primera interacción automatizada con un dispositivo. Los pasos numerados y las imágenes del procedimiento se presentan más adelante en este documento.
+
+En las prácticas 1 a 4 se preparó el entorno de trabajo, se construyó una infraestructura simulada en GNS3, se representó información de dispositivos con Python y se exploraron recursos técnicos. En esta Práctica 5, el programa comenzará a interactuar con un router de laboratorio para enviar configuraciones y comprobar sus resultados.
