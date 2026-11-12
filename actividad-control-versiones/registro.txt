@@ -8,3 +8,7 @@ Karyme De La O Rodríguez
 Mariana Hernández Martínez
 Joseline Martínez Marín
 Ximena Contreras Pérez
+
+Versión 2 
+Git permite conservar un historial de cambios y recuperar 
+versiones anteriores de los archivos. 
