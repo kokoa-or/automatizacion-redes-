@@ -1,0 +1,10 @@
+ACTIVIDAD: SISTEMA DE CONTROL DE VERSIONES 
+Versión 1 
+El control de versiones permite registrar los cambios realizados 
+en los archivos de un proyecto de software. 
+Equipo: 
+Integrantes:
+Karyme De La O Rodríguez
+Mariana Hernández Martínez
+Joseline Martínez Marín
+Ximena Contreras Pérez
