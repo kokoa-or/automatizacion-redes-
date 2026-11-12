@@ -12,3 +12,7 @@ Ximena Contreras Pérez
 Versión 2 
 Git permite conservar un historial de cambios y recuperar 
 versiones anteriores de los archivos. 
+
+Versión 3 
+Las ramas permiten desarrollar modificaciones de manera 
+independiente antes de integrarlas al proyecto principal.
